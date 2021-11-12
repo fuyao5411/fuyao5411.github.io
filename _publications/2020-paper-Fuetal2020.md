@@ -13,7 +13,7 @@ The Atlantic Meridional Overturning Circulation and water mass property changes 
 <br/><img width="600" src='/images/Fu2020fig1.png'><br/>
 Subpolar North Atlantic decadal salinity changes
 
-<br/><img width="600" src='/images/Fu2020fig2.png'><br/>
+<br/><img width="500" src='/images/Fu2020fig2.png'><br/>
 AMOC strength over the past three decades in the North Atlantic
 
 [Download paper here](http://fuyao5411.github.io/files/Fu2020.pdf)
