@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yao Fu"
+title                    : "Dr. Yao Fu"
 title_separator          : "-"
 name                     : &name "Yao Fu"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr Yao Fu"
+  name             : "Dr. Yao Fu"
   avatar           : "profile.png"
   bio              : "Physical Oceanographer"
   location         : "Atlanta, GA, US"
