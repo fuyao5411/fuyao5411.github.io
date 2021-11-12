@@ -10,7 +10,7 @@ main:
   #  url: /teaching/    
     
   - title: "Recent researches"
-    url: /portfolio/
+    url: /Research/
         
  # - title: "Blog Posts"
  #   url: /year-archive/
@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Photos"
-    url: /markdown/
+  #- title: "Photos"
+  #  url: /markdown/
