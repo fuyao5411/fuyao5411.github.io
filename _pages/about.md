@@ -13,7 +13,7 @@ Hi, this is Yao, I am a sea-going physical oceanographer and research scientist 
 My research
 ======
 Climate change has become a trending topic and yet the ocean's role in the climate is far from being understood. I love the ocean since childhood, because I always feel the ocean brings me peace. Luckly I followed my interest and I become a physical oceanographer. My research mainly focuses on large-scale circulation in the Atlantic Ocean and its impact on global climate. I am particularly interested in understanding the variability of ocean circulation and how their changes impact regional to global climate system. Here are some of my research topics:
-1. Atlantic Meridional Overturning Circulation (AMOC) [My recent work](https://www.science.org/doi/10.1126/sciadv.abc7836)
+1. Atlantic Meridional Overturning Circulation (AMOC) ([My recent work](https://www.science.org/doi/10.1126/sciadv.abc7836))
 2. Subtropic Cell (STC)
 3. Watermass property change
 4. Wind-driven circulation
