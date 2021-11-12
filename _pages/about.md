@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Yao, I am a sea-going physical oceanographer and research scientist at School of Earth and Atmospheric Sciences, <span style="font-weight:bold">Georgia Institute of Technology</span> (<a href="https://eas.gatech.edu//">Geogia Tech</a>). I am also on the way becoming a photographer. On this website, you will find my most recent research and photos I recently shot during weekend trips.
+<span style="font-size:16px; text-align: justify;">Hi, this is Yao, I am a sea-going physical oceanographer and research scientist at School of Earth and Atmospheric Sciences, <span style="font-weight:bold">Georgia Institute of Technology</span> (<a href="https://eas.gatech.edu//">Geogia Tech</a>). I am also on the way becoming a photographer. On this website, you will find my most recent research and photos I recently shot during weekend trips.</span>
 
 My research
 ======
-Climate change has become a trending topic and yet the ocean's role in the climate is far from being understood. I love the ocean since childhood, because I always feel the ocean brings me peace. Luckly I followed my interest and I become a physical oceanographer. My research mainly focuses on large-scale circulation in the Atlantic Ocean and its impact on global climate. I am particularly interested in understanding the variability of ocean circulation and how their changes impact regional to global climate system. Here are some of my research topics:
+<span style="font-size:16px; text-align: justify;">Climate change has become a trending topic and yet the ocean's role in the climate is far from being understood. I love the ocean since childhood, because I always feel the ocean brings me peace. Luckly I followed my interest and I become a physical oceanographer. My research mainly focuses on large-scale circulation in the Atlantic Ocean and its impact on global climate. I am particularly interested in understanding the variability of ocean circulation and how their changes impact regional to global climate system. Here are some of my research topics:</span>
 1. Atlantic Meridional Overturning Circulation (AMOC) ([My recent work](https://www.science.org/doi/10.1126/sciadv.abc7836))
 2. Subtropic Cell (STC)
 3. Watermass property change
