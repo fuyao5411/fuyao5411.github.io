@@ -27,8 +27,6 @@ Thanks for visiting! You can click <a href="/files/CV_Fu_202111.pdf" download="C
 </head>
 <body>
 
-<a href="https://www.linkedin.com/in/sciencebymaria/" download="Molina_CV"><i class="fa fa-linkedin-square" style="font-size:36px;color:#007bb6"></i></a>
-
 <br>
 
 </body>
