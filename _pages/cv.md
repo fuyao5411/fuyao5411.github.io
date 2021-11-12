@@ -9,51 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<hr>
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Thanks for visiting! You can click <a href="/files/CV_Fu_202111.pdf" download="CV_Fu">here</a> to download my CV.
+<object width="350" height="400" type="application/pdf" data="/files/CV_Fu_202111.pdf?#zoom=90&scrollbar=0&toolbar=0&navpanes=0">
+    <p>It appears you don't have a PDF plugin for this browser. That's okay... you can <a href="/files/CV_Fu_202111.pdf" download="Yao">click here to
+  download the PDF file.</a></p>
+</object>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<hr>
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<html>
+<head>
+<title>Font Awesome Icons</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+
+<a href="https://www.linkedin.com/in/sciencebymaria/" download="Molina_CV"><i class="fa fa-linkedin-square" style="font-size:36px;color:#007bb6"></i></a>
+
+<br>
+
+</body>
+</html> 
