@@ -10,6 +10,8 @@ paperurl: 'https://doi.org/10.5194/os-13-531-2017'
 ---
 This work examine the meridional Ekman volume, heat and salt transport in the tropical Atlantic using ship-board and satellite observations, e.g., CTD, underway-CTD, ADCP, and wind data. We find that the top of the pycnocline, defined as the the shallowest depth at which the density gradient is larger than 0.01 kg m^{-4}, is the best representation fo the penetration depth of the Ekman flow in the tropical Atlantic.
 
+<br/><img width="650" src='/images/Fu2017fig.png'>
+
 [Download paper here](http://fuyao5411.github.io/papers/Fu2017.pdf)
 
 Fu, Y., Karstensen, J., Brandt, P. (2017), On the meridional ageostrophic transport in the tropical Atlantic, Ocean Science, 13(4), 531-549, doi:10.5194/os-13-531-2017.
