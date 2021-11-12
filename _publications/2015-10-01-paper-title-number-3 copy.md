@@ -5,7 +5,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper highlights the role of western boundary current in the interannual variability of the Antarctic Intermediate Water in the tropical Northwestern Atlantic.'
 date: 2019-1-1
 venue: 'Journal of Geophysical Research: Oceans'
-#paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://doi.org/10.1029/2018JC014878'
 #citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 This paper highlights the role of western boundary current in the interannual variability of the Antarctic Intermediate Water in the tropical Northwestern Atlantic
