@@ -3,8 +3,8 @@ title: "On the meridional ageostrophic transport in the tropical Atlantic"
 collection: publications
 permalink: /publication/2017-paper-Fuetal2017
 excerpt: 'his work examine the meridional Ekman volume, heat and salt transport in the tropical Atlantic using ship-board and satellite observations, e.g., CTD, underway-CTD, ADCP, and wind data. We find that the top of the pycnocline is the best representation fo the penetration depth of the Ekman flow in the tropical Atlantic.'
-date: 2009-10-01
-venue: 'Ocean Science@'
+date: 2017-10-01
+venue: 'Ocean Science'
 paperurl: 'https://doi.org/10.5194/os-13-531-2017'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---

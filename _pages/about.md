@@ -20,4 +20,4 @@ My research
 
 About me
 ======
-<span style="font-size:16px; text-align: justify;">I am a Chinese who lives abroad for a long time. I finished my undergraduate study in a coastal city, Dalian in China. Then I moved to Northern Germany and lived there for about 7 years. I got my master and Ph.D degree in physical oceanography there and enjoyed traveling around Europe a lot. Before relocating to the US, I also went back to China and worked there for 3 years. Currently, I am exploring life in the US and practicing photography.</span>
+<span style="font-size:16px; text-align: justify;">I am a Chinese who lives abroad for many years. I finished my undergraduate study in a coastal city, Dalian in China. Then I moved to Northern Germany and lived there for about 7 years. I got my master and Ph.D degree in physical oceanography there and enjoyed traveling around Europe a lot. Before relocating myself to the US, I also moved back to China and worked there as an scientist for 3 years. Currently, I am exploring work and life in the US and practicing photography.</span>
