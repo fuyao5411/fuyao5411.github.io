@@ -8,3 +8,4 @@ redirect_from:
   - /photos.html
 ---
 
+{% include base_path %}
