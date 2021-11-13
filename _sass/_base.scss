@@ -235,8 +235,6 @@ figure {
 /* Figure captions */
 
 figcaption {
-  position: absolute;
-  bottom: 1em;
   margin-bottom: 0.5em;
   color: mix(#fff, $text-color, 25%);
   font-family: $caption-font-family;
