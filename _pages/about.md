@@ -12,7 +12,7 @@ redirect_from:
 
 My research
 ======
-<span style="font-size:16px; text-align: justify;">Climate change has become a trending topic and yet the ocean's role in the climate is far from being understood. I love the ocean since childhood, because I always feel the ocean brings me peace. Luckly I followed my interest and I become a physical oceanographer. My research mainly focuses on large-scale circulation in the Atlantic Ocean and its impact on global climate. I am particularly interested in understanding the variability of ocean circulation and how their changes impact regional to global climate system. Here are some of my research topics:</span>
+<span style="font-size:16px; text-align: justify;"> Climate change has become a central issue in global discussion. Yet the ocean's critical role in regulating our climate is far from being understood. My fascination with the ocean began in childhood, drawn to the peace it brings. This passion led me to pursue a career as a physical oceanographer, where my research centers on large-scale ocean circulation in the Atlantic and its influence on global climate. Below are some of the key topics in my research:</span>
 1. Atlantic Meridional Overturning Circulation and water mass (<span style="font-weight:bold"><a href="https://www.science.org/doi/10.1126/sciadv.abc7836">AMOC</a></span> <span style="font-weight:bold"><a href="https://doi.org/10.1038/s43247-023-00848-9">OSNAP</a></span>) 
 2. Subtropic Cell (<span style="font-weight:bold"><a href="https://doi.org/10.1029/2021JC018191">STC</a></span>) 
 3. Watermass property change (<span style="font-weight:bold"><a href="https://doi.org/10.1029/2018JC014878">AAIW</a></span>) 
