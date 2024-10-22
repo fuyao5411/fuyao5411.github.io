@@ -2,7 +2,7 @@
 title: "A stable Atlantic Meridional Overturning Circulation in a changing North Atlantic since the 1990s"
 collection: publications
 permalink: /publication/2020-paper-Fuetal2020
-excerpt: 'The Atlantic Meridional Overturning Circulation (AMOC)and water mass property changes in the north Atlantic are jointly studied using a compilation of hydrographic section data, array observation, satellite altimetry, and ocean syntheses pruduct. The results indicate that water mass property and overturning circulation do not vary at the same pace, suggesting a higher degree of decoupling between the two processes than we previously expect.'
+excerpt: 'The Atlantic Meridional Overturning Circulation (AMOC) and water mass property changes in the north Atlantic are jointly studied using a compilation of hydrographic section data, array observation, satellite altimetry, and ocean syntheses pruduct. The results indicate that water mass property and overturning circulation do not vary at the same pace, suggesting a higher degree of decoupling between the two processes than we previously expect.'
 date: 2020-11-27
 venue: 'Science Advances'
 paperurl: 'https://www.science.org/doi/10.1126/sciadv.abc7836'
