@@ -12,5 +12,4 @@ author_profile: true
 
 Thanks for visiting! 
 
-</body>
-</html> 
+<hr>
