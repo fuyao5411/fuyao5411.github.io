@@ -1,8 +1,9 @@
 ---
 layout: archive
-permalink: /Publications/
+permalink: /papers/
 title: "Publications"
 author_profile: true
+
 ---
 
 {% include base_path %}
