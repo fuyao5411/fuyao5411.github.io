@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size:16px; text-align: justify;">Hi, this is Yao, I am a sea-going physical oceanographer and research scientist at School of Earth and Atmospheric Sciences, <span style="font-weight:bold">Georgia Institute of Technology</span> (<a href="https://eas.gatech.edu//">Geogia Tech</a>). I am also on the way becoming a photographer. On this website, you will find my most recent research and photos I recently shot during weekend trips.</span>
+<span style="font-size:16px; text-align: justify;">Hi there~, welcome to my website. This is Yao. I am a sea-going physical oceanographer. Currently, I work as a research scientist at School of Earth and Atmospheric Sciences, Georgia Institute of Technology ([Georgia Tech](https://eas.gatech.edu//)). I will soon start my new faculty position at College of Marine Science ([CMS](https://www.usf.edu/marine-science/)), <span style="font-weight:bold">University of South Florida </span> (<a href="https://www.usf.edu//">USF</a>) as an assistant professor. I am also on the way becoming a photographer. On this website, you will find my most recent research and some photos I recently shot.</span>
 
 My research
 ======
