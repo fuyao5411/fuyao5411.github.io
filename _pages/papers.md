@@ -10,7 +10,7 @@ author_profile: true
 
 Koman, G., Bower, A. S., Holliday, N. P., Furey, H. H., Fu, Y., Bilo, T. C. (2024). Observed decrease in Deep Western Boundary Current transport in subpolar North Atlantic. Nature Geoscience. https://doi.org/10.1038/s41561-024-01555-6
 
-Li, F., Fu, Y., Lozier, M. S., Le Bras, I. A., de Jong, M. F., Wang, Y., and Sanchez-Franks, A. (2024). Deep circulation variability through the eastern subpolar North Atlantic. Journal of Climate, https://doi.org/10.1175/JCLI-D-23-0487.1
+Li, F., Fu, Y., Lozier, M. S., Le Bras, I. A., de Jong, M. F., Wang, Y., and Sanchez-Franks, A. (2024). Deep circulation variability through the eastern subpolar North Atlantic. Journal of Climate. https://doi.org/10.1175/JCLI-D-23-0487.1
 
 Sanchez-Franks, A., Holliday, N. P., Evans, D. G., Fried, N., Tooth, O., Chafik, L., Fu, Y., Li, F., de Jong, M. F., Johnson, H. L. (2024). The Irminger Gyre as a key driver of the Subpolar North Atlantic overturning. Geophysical Research Letters, 51, e2024GL108457. https://doi.org/10.1029/2024GL108457
 
@@ -32,6 +32,6 @@ Fu, Y., Wang, C., Brandt, P., Greatbatch, R. J. (2019). Interannual Variability 
 
 Fu, Y., Karstensen, J., Brandt, P. (2018), Atlantic meridional overturning circulation at 14.5°N in 1989 and 2013 and 24.5°N in 1992 and 2015: volume, heat, and freshwater transports, Ocean Science, 14(4), 589-616. https://doi.org/10.5194/os-14-589-2018
 
-Fu, Y., Karstensen, J., Brandt, P. (2017), On the meridional ageostrophic transport in the tropical Atlantic, Ocean Science, 13(4), 531-549. https://doi.org/10.5194/os-13-531-2017
+Fu, Y., Karstensen, J., Brandt, P. (2017), On the meridional ageostrophic transport in the tropical Atlantic, Ocean Science, 13(4), 531-549. (https://doi.org/10.5194/os-13-531-2017)
 
-Greatbatch, R. J., Brandt, P., Claus, M., Didwischus, S. H. and Fu, Y. (2012), On the width of the equatorial deep jets, Journal of Physical Oceanography, 42. pp. 1729-1740. https://doi.org/10.1175/JPO-D-11-0238.1
+Greatbatch, R. J., Brandt, P., Claus, M., Didwischus, S. H. and Fu, Y. (2012), On the width of the equatorial deep jets, Journal of Physical Oceanography, 42. pp. 1729-1740. [link](https://doi.org/10.1175/JPO-D-11-0238.1)
