@@ -8,4 +8,9 @@ author_profile: true
 {% include base_path %}
 {% include group-by-array collection=site.posts field="categories" %}
 
-Full Publication list
+<hr>
+
+Thanks for visiting! 
+
+</body>
+</html> 
