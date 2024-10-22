@@ -3,7 +3,16 @@ main:
   - title: "Research highlights"
     url: /publications/
 
- # - title: "Talks"
+  - title: "Publications"
+    url: /papers/    
+    
+  - title: "CV"
+    url: /cv/
+
+  - title: "Photos"
+    url: /Photography/
+
+    # - title: "Talks"
  #   url: /talks/    
 
  # - title: "Teaching"
@@ -11,12 +20,3 @@ main:
         
  # - title: "Blog Posts"
  #   url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  #- title: "Photos"
-  #  url: /photos/
-
-  - title: "Photos"
-    url: /Photography/
