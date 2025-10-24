@@ -1,0 +1,124 @@
+---
+layout: archive
+permalink: /laboratory/
+title: "Overturning and Climate Lab"
+author_profile: False
+redirect_from:
+  - /laboratory
+---
+
+{% include base_path %} 
+<style>
+.lab-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start; /* Ensures sidebar is flush left */
+}
+.lab-sidebar {
+  width: 220px;
+  margin-right: 30px;
+  margin-left: 0; /* Remove any left margin */
+  position: sticky;
+  left: 0;
+  top: 30px;
+  height: fit-content;
+  background: #f8f8f8;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+.lab-content {
+  flex: 1;
+}
+.lab-content h3 {
+  margin-bottom: 12px; /* reduce space below heading */
+}
+.lab-content figure {
+  margin-top: 0;      /* remove space above figure */
+  margin-bottom: 12px; /* reduce space below figure */
+}
+.lab-sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+.lab-sidebar li {
+  margin-bottom: 16px;
+}
+.lab-sidebar a {
+  text-decoration: none;
+  color: #0077cc;
+  font-weight: 500;
+}
+.lab-sidebar a:hover {
+  text-decoration: underline;
+}
+</style>
+
+
+<div class="lab-container">
+  <nav class="lab-sidebar">
+    <ul>
+      <li><a href="#projects">Research Topics</a></li>
+      <li><a href="#people">People</a></li>
+      <!-- <li><a href="#publications">Publications</a></li> -->
+    </ul>
+  </nav>
+
+  <div class="lab-content">
+    <h2 id="projects">Research Topics</h2>
+    <h3>AMOC</h3>
+     <figure style="max-width:800px;">
+      <img src="{{ '/images/AMOC_IPCC.png' | relative_url }}" alt="AMOC schematic" style="width:60%;height:auto;border:1px solid #ddd;border-radius:4px;">
+      <figcaption style="font-size:14px;color:#666;text-align:center;margin-top:6px;">AMOC schematic (IPCC AR6)</figcaption>
+    </figure>
+    <p>The Atlantic Meridional Overturning Circulation (AMOC) is a crucial component of the Earth's climate system.
+       It plays a key role in redistributing heat, freshwater, oxygen, carbon, and nutrients on a global scale. 
+       Therefore, the AMOC is vital for maintaining the global climate and weather patterns, as well as marine ecosystems.
+       Our lab focuses on understanding the dynamics of the AMOC and its impact on climate variability and change using a
+       combination of observational and numerical modeling data. We habe been actively involved in the the Overturning in 
+       the Subpolar North Atlantic Program (OSNAP) to measure the subpolar AMOC variability and to understand its mechanisms.
+
+
+
+    <h3>Subtropical Cells (STCs)</h3>
+     <figure style="max-width:800px;">
+      <img src="{{ '/images/Fu2022fig.jpg' | relative_url }}" alt="STC" style="width:80%;height:auto;border:1px solid #ddd;border-radius:4px;">
+      <figcaption style="font-size:14px;color:#666;text-align:center;margin-top:6px;">STC streamfunction (Fu et al.,2022)</figcaption>
+    </figure>
+    <p>The STCs are wind-driven shallow overturning cells in the upper 500 m of the water column. They consist of a
+      poleward flow in the mixed layer forced by the trade winds, and equatorward return flow in the thermocline as a result
+      of Ekman pumping in the subtropical gyres. The thermocline STC transports supply the Equatorial Undercurrent (EUC),
+      which brings water eastward to supply the eastern tropical upwelling. The STC loop system thus plays an important role in 
+      ventilating the thermocline and regulating the tropical climate variability. Our lab investigates the dynamics of the STC loop, 
+      its interaction with the AMOC, and its role in a changing climate. 
+        </p>
+
+
+     <h2 id="people">People</h2>
+    <ul>
+      <li>
+        <img src="{{ '/images/Portrait_new.jpg' | relative_url }}" alt="Dr. Yao Fu" style="width:40%;height:auto;display:block;margin-bottom:8px;">
+        <strong>Dr. Yao Fu</strong><br>
+        
+      <h3>Graduate Students</h3>
+     <ul>
+       <li>
+         <strong>Sarah Campbell</strong><br>
+         <em>Master  Student</em><br>
+         Research: STC loop variability and STC-AMOC interaction
+       </li>
+     </ul>
+
+     <h3>Undergraduate Students</h3>
+     <ul>
+       <li>
+         <strong>Bryant Pollard II</strong><br>
+         <em>Undergraduate Research Assistant</em><br>
+         Research: AI-based AMOC reconstruction and prediction
+       </li>
+     </ul>
+    </ul>
+
+
+  </div>
+</div>
