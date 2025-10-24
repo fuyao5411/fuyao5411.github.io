@@ -1,0 +1,114 @@
+---
+title: "Advanced Environmental Data Analysis"
+collection: teaching
+type: "Graduate course"
+permalink: /teaching/Advanced-Data-Analysis
+venue: "School of Earth and Atmospheric Sciences, Georgia Tech"
+semester: "Spring 2023"
+author_profile: False
+date: 2023-01-01
+---
+
+<style>
+  .lab-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .lab-sidebar {
+    width: 220px;
+    margin-right: 30px;
+    margin-left: 0;
+    position: sticky;
+    left: 0;
+    top: 30px;
+    height: fit-content;
+    background: #f8f8f8;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  }
+  .lab-content {
+    flex: 1;
+  }
+  .lab-sidebar ul {
+    list-style: none;
+    padding: 0;
+  }
+  .lab-sidebar li {
+    margin-bottom: 16px;
+  }
+  .lab-sidebar a {
+    text-decoration: none;
+    color: #0077cc;
+    font-weight: 500;
+  }
+  .lab-sidebar a:hover {
+    text-decoration: underline;
+  }
+</style>
+
+<div class="lab-container">
+  <nav class="lab-sidebar">
+    <ul>
+      <li><a href="{{ '/laboratory/' | relative_url }}">Overview</a></li>
+      <li><a href="{{ '/people/' | relative_url }}">People</a></li>
+      <li><a href="{{ '/research/' | relative_url }}">Research Interests</a></li>
+      <li><a href="{{ '/teaching/' | relative_url }}">Teaching</a></li>
+      <li><a href="{{ '/papers/' | relative_url }}">Publications</a></li>
+    </ul>
+  </nav>
+  <div class="lab-content">
+
+    <h2>Course Philosophy and Goals</h2>
+    <p>
+      This course is an advanced introduction to environmental data analysis. It is intended for first year graduate students and senior undergraduates. The goal of this class is to provide a deeper understanding of the theory underlying the statistical analysis of environmental data, both in the space, time and spectral domain, and to provide the students with a hands on experience. Ideally at the end of this class you will have developed a series of computer programming tool boxes and theoretical skills that should immediately be available for analyzing and modeling data in your own research.
+    </p>
+    <p>
+      Although some previous knowledge of probability and statistics is required, a background review will be provided. Concepts and notation will be reintroduced as needed. In this class you will learn (A) how to combine models, which quantify statistical or dynamical relationships, with observations, (B) time series analysis, (C) forecasting and extrapolation and (D) signal decomposition. A more detail description of these topics is appended in the LECTURE TOPICS below.
+    </p>
+
+    <h2>Lecture Topics</h2>
+    <ul>
+      <li>Background Review: Matrix and Vector Algebra, Fundamental Statistical Measures, Multivariable Probability Densities, Sample Estimates, Correlation and Covariance, Function and Sums of Random Variables, Central Limit Theorem.</li>
+      <li>Combining models and observations: Interpolation and Function Fitting, Least Square modeling and Singular Vector Expansion, Uncertainties in Estimates, Inverse Methods, Statistical vs. Dynamical Constraints.</li>
+      <li>Time Series Analysis: Time and Frequency Domain Models, Stationarity, Auto-Regression Models, Spectral Analysis and Coherence, Trend Analysis and Significance, Estimating errors in time series reconstruction.</li>
+      <li>Forecasting and Extrapolation: Statistically Optimal Linear Estimators, Regression models, space and time models, objective mapping (multivariate regression), covariance modeling.</li>
+      <li>Decomposing signals: Multivariate eigenfunction analysis, EOFs, PCA, CCA, and Wavelet analysis</li>
+    </ul>
+
+    <h2>Lecture Content</h2>
+    <h4>Background Review</h4>
+    <h3>Topic 1: Why is statistical analysis useful? <a href="https://usf.box.com/s/8h9omu6t0am8ebgi6dydsqch5slukupl">[link]</a></h3>
+    <h3>Topic 2: An overview of the statistical methods. How does it all fit together? <a href="https://usf.box.com/s/sq8db7bvvvctanhupzjqfcdxn5il67u3">[link]</a></h3>
+    <h3>Topic 3: Fundamental Statistical Measures. Univariate Statistics and PDFs <a href="https://usf.box.com/s/2xthj184l8rigac303ljwh2c99oj8eay">[link]</a></h3>
+    <h3>Topic 4: Fundamental Statistical Measures. Multivariate Statistics and JPDFs <a href="https://usf.box.com/s/0kfcirz554b8tyg7a9txnw57e4hkix7l">[link]</a></h3>
+    <h3>Topic 5: Statistically Optimal Linear Estimators: relationship between least squares and conditional joint PDF estimates <a href="https://usf.box.com/s/7warmrngz6txsot7q5ccvzt92wf4yo7a">[link]</a></h3>
+
+    <h4>Combining Models and Observations</h4>
+    <h3>Review of linear algebra <a href="https://usf.box.com/s/dmr1bkko2fglvsze7a43z0nzpkmzvmgu">[link]</a></h3>
+    <h3>Topic 6: Testing a model against observations: Introduction to Least Squares (LSQ) <a href="https://usf.box.com/s/bc6tirkkisougayo3pej0ir3i40frn7q">[link]</a></h3>
+    <h3>Topic 7: Interpolation and function fitting with LSQ: The CO2 curve and SST spatial maps <a href="https://usf.box.com/s/4vtpld5uit62u46e2nlvyiek69xyquya">[link]</a></h3>
+    <h3>Topic 8: LSQ and Inverse Modeling: Reconstructing the source of a pollutant with an advection diffusion model <a href="https://usf.box.com/s/qttkpdghxy18d86g81fk7it19lp9tmry">[link]</a></h3>
+    <h3>Topic 9: Lagrange Multipliers and Adjoints <a href="https://usf.box.com/s/rf6a5pdchegp9tpzedofqfetrtytgx4s">[link]</a></h3>
+
+    <h4>Forecasting and Extrapolation</h3>
+    <h3>Topic 10: Covariance Modeling; Basic Theory; <a href="https://usf.box.com/s/afr3i9b52otavfxb53c0elydsx1hsyss">[link]</a></h3>
+
+    <h4>Signal Decomposition</h4>
+    <h3>Topic 11: Empirical Orthogonal Functions (EOFs) / Principal Component Analysis (PCA) <a href="https://usf.box.com/s/pemzmdi1pimm27c3mw2b4bassduw3qdr">[link]</a></h3>
+    <h3>Topic 12: Covariance Model Space Example [Coding exercise]</h3>
+    <h3>Topic 13: Singular Value Decomposition (SVD) [Coding exercise]</h3>
+    <h3>Topic 14: Objective Mapping <a href="https://usf.box.com/s/0j0jmxuoox7duonelhhf82zm0vkzhtbm">[link]</a></h3>
+
+    <h3>Time Series Analysis (to be developed)</h3>
+    <!--
+    <h3>Topic 15: Understanding Time Processes in the Time Domain, White Noise, Red Noise, Auto-correlation Function, Auto-Regressive Models, Fourier Series [link]</h3>
+    <h3>Topic 16-17: Frequency domain, Spectrum and Autocovariance function, Review Convolution and Cross-correlation, Aliasing, DFT and Tapering [link]</h3>
+    <h3>Topic 18: Analysis of two or more signals, Cross-Spectra and Coherence [link]</h3>
+    -->
+  </div>
+</div>
+
+
+

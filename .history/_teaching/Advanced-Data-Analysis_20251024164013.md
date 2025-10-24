@@ -15,7 +15,7 @@ date: 2023-01-01
 
 Although some previous knowledge of probability and statistics is required, a background review will be provided. Concepts and notation will be reintroduced as needed. In this class you will learn (A) how to combine models, which quantify statistical or dynamical relationships, with observations, (B) time series analysis, (C) forecasting and extrapolation and (D) signal decomposition. A more detail description of these topics is appended in the LECTURE TOPICS below.
 
-LECTURE TOPICS:
+**LECTURE TOPICS:**
 * Background Review: Matrix and Vector Algebra, Fundamental Statistical Measures, Multivariable Probability Densities, Sample Estimates, Correlation and Covariance, Function and Sums of Random Variables, Central Limit Theorem. 
  
 * Combining models and observations: Interpolation and Function Fitting, Least Square modeling and Singular Vector Expansion, Uncertainties in Estimates, Inverse Methods, Statistical vs. Dynamical Constraints.
@@ -26,7 +26,7 @@ LECTURE TOPICS:
 
 * Decomposing signals: Multivariate eigenfunction analysis, EOFs, PCA, CCA, and Wavelet analysis
 
-# LECTURE CONTENT
+**LECTURE CONTENT**
 ## BACKGROUND REVIEW
 ### Topic 1: Why is statistical analysis useful? [link](https://usf.box.com/s/8h9omu6t0am8ebgi6dydsqch5slukupl)
 ### Topic 2: An overview of the statistical methods. How does it all fit together? [link](https://usf.box.com/s/sq8db7bvvvctanhupzjqfcdxn5il67u3)
@@ -50,10 +50,10 @@ LECTURE TOPICS:
 ### Topic 13: Singular Value Decomposition (SVD) [Coding exercise]
 ### Topic 14: Objective Mapping [link](https://usf.box.com/s/0j0jmxuoox7duonelhhf82zm0vkzhtbm)
 
-<!-- TIME SERIES ANALYSIS
-### Topic 15: Understanding Time Processes in the Time Domain, White Noise, Red Noise, Auto-correlation Function, Auto-Regressive Models, Fourier Series [link](#topic-15-understanding-time-processes-in-the-time-domain-white-noise-red-noise-auto-correlation-function-auto-regressive-models-fourier-series)
+## TIME SERIES ANALYSIS (to be developed)
+<!-- ### Topic 15: Understanding Time Processes in the Time Domain, White Noise, Red Noise, Auto-correlation Function, Auto-Regressive Models, Fourier Series [link](#topic-15-understanding-time-processes-in-the-time-domain-white-noise-red-noise-auto-correlation-function-auto-regressive-models-fourier-series)
 ### Topic 16-17: Frequency domain, Spectrum and Autocovariance function, Review Convolution and Cross-correlation, Aliasing, DFT and Tapering [link](#topic-16-17-frequency-domain-spectrum-and-autocovariance-function-review-convolution-and-cross-correlation-aliasing-dft-and-tapering)
-### Topic 18: Analysis of two or more signals, Cross-Spectra and Coherence [link](#topic-18-analysis-of-two-or-more-signals-cross-spectra-and-coherence)
--->
+### Topic 18: Analysis of two or more signals, Cross-Spectra and Coherence [link](#topic-18-analysis-of-two-or-more-signals-cross-spectra-and-coherence) -->
+
 
 
