@@ -60,3 +60,9 @@ author_profile: False
     {% endfor %}
   </div>
 </div>
+
+{% include base_path %}
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
