@@ -1,0 +1,28 @@
+# main links links
+main: 
+  - title: "Overturning and Climate Lab"
+    url: /laboratory/    
+    
+  - title: "Research Highlights"
+    url: /publications/
+
+  - title: "Publications"
+    url: /papers/    
+    
+  - title: "CV"
+    url: /cv/
+
+  - title: "Photos"
+    url: /Photography/
+
+
+
+
+    # - title: "Talks"
+ #   url: /talks/    
+
+ # - title: "Teaching"
+#  url: /teaching/    
+        
+ # - title: "Blog Posts"
+ #   url: /year-archive/
