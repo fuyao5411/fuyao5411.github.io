@@ -12,7 +12,7 @@ redirect_from:
 
 Prospective Students
 ======
-<p style="font-size:16px; text-align: justify;">I am recruiting a <span style="font-weight:bold">graduate students</span> to start in fall 2026. Please see <a href="https://www.usf.edu/marine-science/education/prospective-students/index.aspx//">Prospective student webpage</a> for information about the application process. If you would like to discuss about potential application, please feel free to drop me an email: <a href="mailto:yaofu@usf.edu">yaofu@usf.edu</a>. </p> 
+<p style="font-size:16px; text-align: justify;">I am recruiting a <span style="font-weight:bold">graduate students</span> to start in fall 2027. Please see <a href="https://www.usf.edu/marine-science/education/prospective-students/index.aspx//">Prospective student webpage</a> for information about the application process. If you would like to discuss about potential application, please feel free to drop me an email: <a href="mailto:yaofu@usf.edu">yaofu@usf.edu</a>. </p> 
 
 Research
 ======
