@@ -9,11 +9,11 @@ author_profile: true
 {% include base_path %}
 Miller, U. K., Palter, J., Park, E., Atamanchuk, D., Fogaren, K., **Fu, Y.**, et al. (2026). Central role of Labrador Sea convection for transport of oxygen into the deep North Atlantic Ocean. Nature Geoscience. [link](https://doi.org/10.1038/s41561-026-02057-3)
 
-Danabasoglu, G., Castruccio, F. S., Boza, B., Barthel, A. M., Biastoch, A., Blaker, A., Bozec, A., Bruciaferri, D., Bryan, F. O., Chassignet, E. P., **Fu, Y.**, et al. (2026). Simulated and observed transport estimates across the Overturning in the Subpolar North Atlantic Program (OSNAP) sections. Geoscientific Model Development, 19, 5071–5117.
+Danabasoglu, G., Castruccio, F. S., Boza, B., Barthel, A. M., Biastoch, A., Blaker, A., Bozec, A., Bruciaferri, D., Bryan, F. O., Chassignet, E. P., **Fu, Y.**, et al. (2026). Simulated and observed transport estimates across the Overturning in the Subpolar North Atlantic Program (OSNAP) sections. Geoscientific Model Development, 19, 5071–5117. [link](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-5406/)
 
-Foukal, N., Le Bras, I., **Fu, Y.**, Petit, T., Biló, T. C., Elipot, S., & Moat, B. (2026). Strengthening connections in observing the North Atlantic Meridional Overturning Circulation: Outcomes from a joint RAPID-OSNAP workshop. Oceanography, 39(1), 44–49.
+Foukal, N., Le Bras, I., **Fu, Y.**, Petit, T., Biló, T. C., Elipot, S., & Moat, B. (2026). Strengthening connections in observing the North Atlantic Meridional Overturning Circulation: Outcomes from a joint RAPID-OSNAP workshop. Oceanography, 39(1), 44–49. [link](https://doi.org/10.5670/oceanog.2026.e110)
 
-Winkelbauer, S., Winterer, I., Mayer, M., **Fu, Y.**, & Haimberger, L. (2026). Subpolar Atlantic meridional heat transports from OSNAP and ocean reanalyses – a comparison. Ocean Science, 22, 629–651.
+Winkelbauer, S., Winterer, I., Mayer, M., **Fu, Y.**, & Haimberger, L. (2026). Subpolar Atlantic meridional heat transports from OSNAP and ocean reanalyses – a comparison. Ocean Science, 22, 629–651. [link](https://os.copernicus.org/articles/22/629/2026/)
 
 Li, F., **Fu, Y.**, Petit, T., & Zou, S. (2026). Strengthening of Labrador Sea overturning linked to subsurface freshening over recent decades. Geophysical Research Letters, 53, e2025GL118605. [link](https://doi.org/10.1029/2025GL118605)
 
